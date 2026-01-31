@@ -1,0 +1,1 @@
+este proyecto debe de calcular las 4 notas de un estudiante, luego de calcularla decir si el estudiante aprobo o se quemo, en caso de que se quemase se habilitaria otra casilla en el que el estudiante pasaria a completivo, si el estudiante aun asi es tan bruto que se quema, se manda para extraordinario pa ve si el estudiante pasa
